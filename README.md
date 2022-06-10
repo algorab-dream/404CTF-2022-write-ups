@@ -17,9 +17,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation !
     * [SOS-Raid (2/2)](/forensic/raid-2)
     * [Hackllebarde Ransomware (1/4)](/forensic/hackllebarde-1)
     * [Hackllebarde Ransomware (3/4)](/forensic/hackllebarde-3)   
-* #### Reverse Engineering
-    * [Renverse la tour ! (1/2)](reverse/tour-1)
-    * [Renverse la tour ! (2/2)](reverse/tour-2)
 * #### Stéganographie
     * [PNG : Un logo obèse (1/4)](/stegano/png-1)
     * [Stéréographie](/stegano/stereo)
