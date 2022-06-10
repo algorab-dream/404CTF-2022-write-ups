@@ -37,7 +37,6 @@ conn.recvline()
 cipher = int(conn.recvline().decode())
 
 conn.recvline()
-N = int(conn.recvline().decode().split(' ')[2])
 e = int(conn.recvline().decode().split(' ')[2])
 conn.recvline()
 conn.recvline()
