@@ -37,7 +37,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation !
     * [Un simple oracle (1/2)](/crypto/oracle-1)
     * [Un simple oracle (2/2)](/crypto/oracle-2)
     * [Weak Signature](/crypto/weak)
-    * [Une lettre bien mystérieuse](/crypto/lettre)
     * [La fonte des hashs](/crypto/hash)
     * [Hackllebarde Ransomware (4/4)](/forensic/hackllebarde-4)
 * #### Programmation
