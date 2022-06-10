@@ -39,7 +39,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation !
     * [La fonte des hashs](/crypto/hash)
     * [Hackllebarde Ransomware (4/4)](/forensic/hackllebarde-4)
 * #### Programmation
-    * [Compression](/prog/compression)
     * [Découpé](/prog/decoupe)
     * [128code128](/prog/128code128)
 * #### Exploitation de binaires
