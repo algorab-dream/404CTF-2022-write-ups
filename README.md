@@ -16,7 +16,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation !
     * [Agent Compromis (3/3)](/forensic/compromis-3)
     * [SOS-Raid (2/2)](/forensic/raid-2)
     * [Hackllebarde Ransomware (1/4)](/forensic/hackllebarde-1)
-    * [Hackllebarde Ransomware (2/4)](/forensic/hackllebarde-2) 
     * [Hackllebarde Ransomware (3/4)](/forensic/hackllebarde-3)   
 * #### Reverse Engineering
     * [Renverse la tour ! (1/2)](reverse/tour-1)
