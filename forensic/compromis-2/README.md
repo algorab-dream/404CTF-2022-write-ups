@@ -62,3 +62,5 @@ for query in data:
 
 for name in files.keys():
     open(name,'wb').write(files[name])
+```
+On peut alors reconstituer le flag : 404CTF{exfiltration.py,flag.txt,hallebarde.png,super-secret.pdf}.
