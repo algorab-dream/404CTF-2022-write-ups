@@ -38,10 +38,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation !
 * #### Programmation
     * [Découpé](/prog/decoupe)
     * [128code128](/prog/128code128)
-* #### Exploitation de binaires
-    * [Trop facile](/pwn/facile)
-    * [Sans Protection](/pwn/sans-protection)
-    * [Cache-cache](/pwn/cache-cache)
 * #### Web3
     * [La Guerre des Contrats (1/2)](/web3/contrat-1)
     * [Clé Publique](/web3/cle-publique)
