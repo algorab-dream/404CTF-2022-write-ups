@@ -6,7 +6,7 @@
 </p>
 
 
-Voici mes write-ups de ce CTF, merci à l'organisation !
+Voici mes write-ups de ce CTF, merci à l'organisation ! Certains challenges que j'ai complétés n'y figurent pas, car je ne trouve pas la solution que j'ai pertinente.
 
 * #### Forensic
     * [Floppy](/forensic/floppy)
