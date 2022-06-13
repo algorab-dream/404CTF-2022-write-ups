@@ -17,13 +17,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation ! Certains challenges que
     * [SOS-Raid (2/2)](/forensic/raid-2)
     * [Hackllebarde Ransomware (1/4)](/forensic/hackllebarde-1)
     * [Hackllebarde Ransomware (3/4)](/forensic/hackllebarde-3)   
-* #### Stéganographie
-    * [PNG : Un logo obèse (1/4)](/stegano/png-1)
-    * [Stéréographie](/stegano/stereo)
-    * [PNG : Drôles de chimères (2/4)](/stegano/png-2)
-    * [PNG : Toujours obèse (3/4)](/stegano/png-3)
-    * [La Méthode Française](/stegano/methode-francaise)
-    * [PNG : Une histoire de filtres (4/4)](/stegano/png-4)
 * #### Web
     * [Fiché JS](/web/js)
     * [Le Braquage](/web/braquage)
