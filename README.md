@@ -14,7 +14,6 @@ Voici mes write-ups de ce CTF, merci à l'organisation ! Certains challenges que
     * [Agent Compromis (1/3)](/forensic/compromis-1) 
     * [Agent Compromis (2/3)](/forensic/compromis-2)
     * [Agent Compromis (3/3)](/forensic/compromis-3)
-    * [SOS-Raid (2/2)](/forensic/raid-2)
     * [Hackllebarde Ransomware (1/4)](/forensic/hackllebarde-1)
     * [Hackllebarde Ransomware (3/4)](/forensic/hackllebarde-3)   
 * #### Web
